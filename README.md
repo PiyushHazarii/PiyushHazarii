@@ -11,7 +11,7 @@
 🚀 What I Do:
 
 ✔️ Java & Spring Boot Development – Crafting optimized, maintainable, and efficient backend solutions.
-✔️ Database Management – Proficient in MySQL, H2, MongoDB, and optimizing query performance.
+✔️ Database Management – Proficient in MySQL, MongoDB, and optimizing query performance.
 ✔️ System Design & Scalability – Architecting solutions with clean and efficient design patterns.
 ✔️ Problem Solving & DSA – Passionate about Data Structures & Algorithms with hands-on coding experience.
 ✔️ Web Development – REST API development, Spring Security, and integration with modern frontends.
