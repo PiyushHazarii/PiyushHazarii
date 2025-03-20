@@ -3,9 +3,13 @@
 💻 Backend Developer | Java | Spring Boot | DSA(Java) | Spring Data JPA | Servlets & JSP | HTML | CSS | JavaScript | MySQL | MongoDB | Linux 
 
 🔹 Passionate Backend Engineer with a strong foundation in Java, Spring Boot, MySQL, MongoDB, and System Design.
+
 🔹 Experienced in designing scalable, high-performance backend systems and developing RESTful APIs.
+
 🔹 Well-versed in Spring Security, OAuth2, and authentication mechanisms to ensure robust security in applications.
+
 🔹 Strong problem-solving skills, with 500+ LeetCode problems solved, a Gold Badge in Java, and a Silver Badge in DSA on HackerRank.
+
 🔹 Continuously learning and exploring new technologies, best coding practices, and design patterns.
 
 🚀 What I Do:
