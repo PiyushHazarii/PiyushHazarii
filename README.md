@@ -23,6 +23,7 @@ Learning from experienced professionals and exchanging innovative ideas.
 Exploring backend development trends, DevOps, and microservices architectures.
 
 📬 Let's Connect!
+
 📧 Email: mepiyushhazari@gmail.com
 📞 Phone: +91 8340207707
 🔗 LinkedIn: Piyush Hazari
