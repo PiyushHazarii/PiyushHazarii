@@ -40,4 +40,4 @@ Exploring backend development trends, DevOps, and microservices architectures.
 
 🔗 LinkedIn: Piyush Hazari
 
-🌐 GitHub: github.com/piyushhazari
+🌐 GitHub: github.com/piyushhazarii
