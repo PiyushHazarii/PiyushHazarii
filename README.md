@@ -1,6 +1,6 @@
 🚀 Piyush Hazari
 
-💻 Backend Developer | Java | Spring Boot | Microservices | DSA (Java) | Spring Data JPA | MySQL | MongoDB | Linux | Java 8 | GitHub | Docker | Grafana
+💻 Backend Developer | Java | Spring Boot | Microservices | DSA (Java) | Spring Data JPA | MySQL | MongoDB | Linux | Java 8 | GitHub | Docker | Grafana | AWS
 
 🔹 Passionate Backend Engineer with a strong foundation in Java, Spring Boot, MySQL, MongoDB, and System Design.
 
