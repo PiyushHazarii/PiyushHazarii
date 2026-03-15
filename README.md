@@ -117,15 +117,10 @@ Java • Spring Boot • Microservices • System Design • DSA
 
 # 📊 GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushhazarii&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushhazarii&show_icons=true&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushhazarii" height="150"/>
 </p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushhazarii" />
-</p>
-
----
 
 # 📌 Always Open To
 
