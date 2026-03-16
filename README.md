@@ -57,7 +57,8 @@ Building **REST APIs**, implementing **Spring Security**, and integrating with m
 <!-- <h1 align="center"> Working On</h1> -->
 
 <h2 align="center">🔭 Currently Working on <a href="https://www.p-icube.com" target="_blank">P-Icube (Live Project)</a></h2>
-- Developed and enhanced backend modules using **Spring Boot**, contributing to feature development and system improvements in a production environment.
+
+- Developed and enhanced backend modules using <b>Spring Boot</b>, contributing to feature development and system improvements in a production environment.
 
 - Integrated the **Razorpay payment gateway** and implemented an **idempotency filter** to prevent duplicate payment processing and ensure transaction reliability.
 
