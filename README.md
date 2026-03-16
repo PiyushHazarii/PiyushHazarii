@@ -54,16 +54,32 @@ Building **REST APIs**, implementing **Spring Security**, and integrating with m
 
 ---
 
-<h1 align="center">🔭 Currently Working On</h1>
-<h2 align="center">🔹 Working on **P-icube**</h2>
+<!-- <h1 align="center"> Working On</h1> -->
+
+<h2 align="center">🔭 Currently Working on <a href="https://www.p-icube.com" target="_blank">P-Icube (Live Project)</a></h2>
+- Developed and enhanced backend modules using **Spring Boot**, contributing to feature development and system improvements in a production environment.
+
+- Integrated the **Razorpay payment gateway** and implemented an **idempotency filter** to prevent duplicate payment processing and ensure transaction reliability.
+
+- Implemented **exception handling inside filters**, allowing errors occurring in filters to be properly propagated and handled by the application's **global exception handling mechanism**.
+
+- Designed and implemented a **Global Exception Handler** to centrally manage and standardize error responses across the entire application.
+
+- Built an **AI-powered news generation service** using **Google Gemini 4.0** to generate industry-specific news based on company and industry inputs.
+
+- Integrated **Liquibase** for database schema versioning and automated data migration across different environments.
+
+- Implemented an **email notification service** using **Java Mail API with SMTP** for sending system notifications.
+
+- Utilized **Java 8 features** such as **Streams, Lambda Expressions, and Method References** to improve code readability and efficiency.
 
 
 ---
 
-<h1 align="center">💬 Ask Me About</h1>
+<!-- <h1 align="center">💬 Ask Me About</h1>
 
 <h2 align="center">Java • Spring Boot • Microservices • System Design • DSA</h2>
----
+--- -->
 
 <h1 align="center">🛠 Languages and Tools</h1>
 
@@ -125,7 +141,7 @@ Building **REST APIs**, implementing **Spring Security**, and integrating with m
 </p>
 
 
-<h1 align="center">📌 Always Open To</h1> 
+<!-- <h1 align="center">📌 Always Open To</h1> 
 
 ✔️ Collaborating on **exciting projects**
 
@@ -137,7 +153,7 @@ Building **REST APIs**, implementing **Spring Security**, and integrating with m
 
 ✔️ Exploring **backend development, DevOps, and microservices architectures**
 
----
+--- -->
 
 
 <h1 align="center">🌐 Connect With Me</h1>
