@@ -17,7 +17,8 @@
 
 ---
 
-# 🚀 About Me
+<h1 align="center">🚀 About Me</h1>
+
 
 💻 **Backend Developer** specializing in **Java, Spring Boot, and Microservices architecture**
 
@@ -33,7 +34,8 @@
 
 ---
 
-# 🚀 What I Do
+<h1 align="center">🚀 What I Do</h1>
+
 
 ✔️ **Java & Spring Boot Development**  
 Crafting optimized, maintainable, and efficient backend systems.
@@ -52,20 +54,20 @@ Building **REST APIs**, implementing **Spring Security**, and integrating with m
 
 ---
 
-# 🔭 Currently Working On
+<h1 align="center">🔭 Currently Working On</h1>
+<h2 align="center">🔹 Working on **P-icube**</h2>
 
-🔹 Working on **P-icube**
 
 ---
 
-# 💬 Ask Me About
+<h1 align="center">💬 Ask Me About</h1>
 
-Java • Spring Boot • Microservices • System Design • DSA
+<h2 align="center">Java • Spring Boot • Microservices • System Design • DSA</h2>
 ---
 
-# 🛠 Languages and Tools
+<h1 align="center">🛠 Languages and Tools</h1>
 
-<p align="left">
+<p align="center">
 
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -115,14 +117,15 @@ Java • Spring Boot • Microservices • System Design • DSA
 
 ---
 
-# 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushhazarii&show_icons=true&locale=en&layout=compact" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushhazarii" height="150"/>
 </p>
 
-# 📌 Always Open To
+
+<h1 align="center">📌 Always Open To</h1> 
 
 ✔️ Collaborating on **exciting projects**
 
@@ -136,9 +139,10 @@ Java • Spring Boot • Microservices • System Design • DSA
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
+<h1 align="center">🌐 Connect With Me</h1>
+
+<p align="center">
 
 <a href="https://linkedin.com/in/piyush-hazari" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
