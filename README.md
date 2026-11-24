@@ -1,153 +1,118 @@
-<h1 align="center">Hi 👋, I'm Piyush Hazari</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | Microservices | DSA (Java)</h3>
+<h1 align="center">Piyush Hazari</h1>
+<h3 align="center">Backend Engineer · Java · Spring Boot · Distributed Systems</h3>
 
 <p align="center">
-🚀 Passionate Backend Engineer building scalable systems and solving complex problems.
+  <i>I design and ship production backend systems that stay reliable under load, and fail gracefully when they don't.</i>
 </p>
-
- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=piyushhazarii&label=Profile%20views&color=0e75b6&style=flat" alt="piyushhazarii" />
-</p>
-<!--
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=piyushhazarii" alt="piyushhazarii" />
-</a>
-</p> -->
-
----
-
-<h1 align="center">🚀 About Me</h1>
-
-
-💻 **Backend Developer** specializing in **Java, Spring Boot, and Microservices architecture**
-
-🔹 Passionate Backend Engineer with a strong foundation in **Java, Spring Boot, MySQL, MongoDB, and System Design**
-
-🔹 Experienced in designing **scalable, high-performance backend systems** and developing **RESTful APIs**
-
-🔹 Well-versed in **Spring Security, OAuth2, JWT, and authentication mechanisms**
-
-🔹 Strong **problem-solving skills**, with **500+ LeetCode problems solved**, **Gold Badge in Java**, and **Silver Badge in DSA on HackerRank**
-
-🔹 Continuously learning **new technologies, design patterns, and backend best practices**
-
----
-
-<h1 align="center">🚀 What I Do</h1>
-
-
-✔️ **Java & Spring Boot Development**  
-Crafting optimized, maintainable, and efficient backend systems.
-
-✔️ **Database Management**  
-Working with **MySQL, MongoDB, Redis**, and optimizing query performance.
-
-✔️ **System Design & Scalability**  
-Designing scalable architectures using **Microservices and clean design patterns**.
-
-✔️ **Problem Solving & DSA**  
-Passionate about **Data Structures & Algorithms** with strong coding skills.
-
-✔️ **Web Development**  
-Building **REST APIs**, implementing **Spring Security**, and integrating with modern frontends.
-
----
-
-<!-- <h1 align="center"> Working On</h1> -->
-
-<h2 align="center">🔭 Currently Working on <a href="https://www.p-icube.com" target="_blank">P-Icube (Live Project)</a></h2>
-
-- Developed and enhanced backend modules using <b>Spring Boot</b>, contributing to feature development and system improvements in a production environment.
-
-- Integrated the **Razorpay payment gateway** and implemented an **idempotency filter** to prevent duplicate payment processing and ensure transaction reliability.
-
-- Implemented **exception handling inside filters**, allowing errors occurring in filters to be properly propagated and handled by the application's **global exception handling mechanism**.
-
-- Designed and implemented a **Global Exception Handler** to centrally manage and standardize error responses across the entire application.
-
-- Built an **AI-powered news generation service** using **Google Gemini 4.0** to generate industry-specific news based on company and industry inputs.
-
-- Integrated **Liquibase** for database schema versioning and automated data migration across different environments.
-
-- Implemented an **email notification service** using **Java Mail API with SMTP** for sending system notifications.
-
-- Utilized **Java 8 features** such as **Streams, Lambda Expressions, and Method References** to improve code readability and efficiency.
-
-
----
-
-<!-- <h1 align="center">💬 Ask Me About</h1>
-
-<h2 align="center">Java • Spring Boot • Microservices • System Design • DSA</h2>
---- -->
-
-<h1 align="center">🛠 Languages and Tools</h1>
 
 <p align="center">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+  <img src="https://komarev.com/ghpvc/?username=PiyushHazarii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-0e75b6?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat" alt="Open to collaboration" />
 </p>
 
 ---
 
-<h1 align="center">📊 GitHub Stats</h1>
+## 👨‍💻 About
+
+I'm a backend engineer at **ByteIQ Analytics**, working on **[P-Icube](https://www.p-icube.com)**, a live enterprise diagnostic and assessment platform. My focus is on building APIs that are secure, observable, and easy to maintain. I care most about the unglamorous parts: idempotency, error contracts, schema migrations, and clean boundaries between modules.
+
+- 🏗️ Spring Boot services with clean layering, centralized error handling, and secure auth (JWT, OAuth 2.0)
+- 💳 Payment flows where correctness matters more than speed
+- 🤖 Pragmatic LLM integrations: structured outputs, validated and parsed into typed objects
+- 🧠 500+ LeetCode problems solved · Gold Badge in Java · Silver Badge in DSA on HackerRank
+
+---
+
+## 🏢 What I'm Building at Work
+
+**P-Icube** is a multi-portal, production platform used by real customers. My contributions:
+
+| Area | What I built |
+|---|---|
+| **Payments** | Razorpay integration with an **idempotency filter**, so retries and double-clicks never cause duplicate charges |
+| **Error handling** | A **global exception handler** with standardized error responses, plus exception propagation from servlet filters into the same handler |
+| **AI** | An **AI news-generation service** using Google Gemini that produces industry-specific news from company and industry inputs |
+| **Data** | **Liquibase** for versioned schema changes and repeatable migrations across environments |
+| **Notifications** | An SMTP-based **email notification service** (Java Mail API) for system events |
+| **Code quality** | Modern Java idioms (Streams, lambdas, method references) for readable, maintainable code |
+
+---
+
+## 📌 Selected Projects
+
+### 🧠 [JobFit-AI](https://github.com/PiyushHazarii/JobFit-AI)
+An AI-powered **ATS resume analyzer and job-fit matcher**. It evaluates candidate fit against a job description, extracts missing keywords, and produces a **10-point match score** with improvement suggestions.
+`FastAPI` · `React` · `SQLite` · `Groq LLMs`
+
+### 💳 [SpringBoot-Razor-Pay-Integration](https://github.com/PiyushHazarii/SpringBoot-Razor-Pay-Integration)
+A Spring Boot implementation of the Razorpay payment flow, the same reliability-first approach I apply to payments in production.
+`Java` · `Spring Boot` · `Razorpay`
+
+### ☕ [Spring-Boot](https://github.com/PiyushHazarii/Spring-Boot) · [Java-8](https://github.com/PiyushHazarii/Java-8)
+Hands-on repositories covering Spring Boot fundamentals and modern Java (Streams, lambdas, functional interfaces).
+
+### 🧩 [LeetCode-Me](https://github.com/PiyushHazarii/LeetCode-Me)
+My problem-solving journal in Java. I treat DSA as engineering fundamentals, not interview prep alone.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Data & Messaging**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushhazarii&show_icons=true&locale=en&layout=compact" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushhazarii" height="150"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushHazarii&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=PiyushHazarii&hide_border=true" alt="Streak stats" />
 </p>
 
+---
 
-<!-- <h1 align="center">📌 Always Open To</h1> 
-
-✔️ Collaborating on **exciting projects**
-
-✔️ **Open source contributions**
-
-✔️ **Hackathons**
-
-✔️ Learning from **experienced engineers**
-
-✔️ Exploring **backend development, DevOps, and microservices architectures**
-
---- -->
-
-<h1 align="center">🌐 Connect With Me</h1>
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/piyush-hazari">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/piyush_hazari_/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/people/Piyush-Hazari/pfbid02qJeJxXFtDekA6wSs53ozc2iB5qyWp6emhJYnEXyhVpBtK9zKxoW3ZbVcm4jKbXtjl/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mepiyushhazari@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/piyush-hazari-b338952a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mepiyushhazari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/PiyushHazarii"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/piyush_hazari_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+<p align="center"><i>Consistency matters. 🚀</i></p>
